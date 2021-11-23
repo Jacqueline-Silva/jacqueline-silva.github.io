@@ -1,0 +1,69 @@
+body {
+    background-color: #00364d;
+    color: #a9ebc5;
+    font-size: 20px;
+    font-family:  'Raleway', sans-serif;
+}
+div {
+    text-align: right;
+}
+
+li {
+    color: #a9ebc5
+}
+
+#sobre {
+    text-align: center;
+    color: #ffdb5b;   
+}
+
+#frasecoragem {
+    text-align: center;
+    color: #ffdb5b;
+    border-style: none;
+    font-size: 23px;
+    transition: 3s;
+}
+
+#frasecoragem:hover {
+    font-size: 30px;
+}
+
+.links {
+    font-size: 20px;
+    color: #e37974;
+    text-decoration: none;
+    transition: 1.5s;
+}
+
+.links:hover {
+    font-size: 30px;
+}
+
+.picture {
+    border-radius: 10px 80px;
+    border-style: solid;
+    border-color: #e37974;
+    transition: 1s;
+}
+
+.nome {
+    color: #ffdb5b;
+    font-size: 50px;
+    text-align: center;
+}
+
+.secao {
+    color: #e37974;
+}
+
+.redes-sociais {
+    font-size: 20px;
+    color: #a9ebc5;
+    text-decoration: none;
+    transition: 1.5s;
+}
+
+.redes-sociais:hover {
+    font-size: 30px;
+}
